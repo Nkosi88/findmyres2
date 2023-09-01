@@ -1,0 +1,22 @@
+@charset "utf-8";
+.container-fluid .container1 {
+    width: 100%;
+    height: 100px;
+    margin-left: 66px;
+    margin-right: 0px;
+    margin-top: 40px;
+}
+.container-fluid .container1 .bi.bi-facebook {
+    height: 50px;
+    width: 50px;
+    margin-left: 30px;
+}
+.container-fluid .container1 .bi.bi-instagram {
+    width: 50px;
+    height: 50px;
+    margin-left: 30px;
+}
+.container-fluid .container .img-fluid {
+    margin-top: 27px;
+    margin-left: 10px;
+}
